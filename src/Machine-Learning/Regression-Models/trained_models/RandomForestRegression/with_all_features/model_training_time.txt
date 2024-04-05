@@ -1,0 +1,2 @@
+RandomForestRegressor Training Time : 2.863376 seconds
+Total Time with GridSearchCV : 726.366428 seconds

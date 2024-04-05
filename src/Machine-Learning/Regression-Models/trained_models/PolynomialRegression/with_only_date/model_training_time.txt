@@ -1,0 +1,2 @@
+PolynomialRegression Training Time : 0.002207 seconds
+Total Time with GridSearchCV : 0.104642 seconds

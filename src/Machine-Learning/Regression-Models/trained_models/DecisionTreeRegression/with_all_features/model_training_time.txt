@@ -1,0 +1,2 @@
+DecisionTreeRegressor Training Time : 0.015921 seconds
+Total Time with GridSearchCV : 7.205461 seconds

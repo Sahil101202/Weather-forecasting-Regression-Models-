@@ -1,0 +1,2 @@
+GradientBoostRegressor Training Time : 4.104902 seconds
+Total Time with GridSearchCV : 633.504745 seconds
